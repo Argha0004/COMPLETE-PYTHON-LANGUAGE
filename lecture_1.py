@@ -9,6 +9,7 @@ Python is case sensitive language, which means it's sensitive to lower case and 
 # is_published = False
 # print(price)
 
+# Simple Question --->>>
 name = "Jhon Smith"
 age = 20
 is_newPatient = True
