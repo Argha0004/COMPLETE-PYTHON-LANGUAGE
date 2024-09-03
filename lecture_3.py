@@ -9,6 +9,7 @@ Calculating the age to birthday
 # print(type(age))
 # print(age)
 
+# Simple Question --->>>
 wight_lbs = input('Wight in pounds: ')
 wight_kg = 0.45 * float(wight_lbs)
 print('Weight in kilograms: ', wight_kg)
