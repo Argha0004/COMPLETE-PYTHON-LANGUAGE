@@ -6,7 +6,7 @@
 # name = input('what is your name? \n=>')
 # print('Hi,' + name) # dynamically print
 
-
+# Simple Question --->>>
 name = input('What is your name? \n=> ')
 fav_color = input('What is your fav color? \n=> ')
 print(name + ' fav color is ' + fav_color) # dynamically print
