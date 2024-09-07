@@ -1,4 +1,4 @@
-""" Arithmetic Operations"""
+""" Arithmetic Operations """
 '''
 Types of arithmetic operators -> /, //, %, **
 
