@@ -5,12 +5,12 @@
 * in logcal not operator, we give it true boolean value it converts in to false.
 '''
 
-# has_high_income = False
-# has_good_credit = True
-# if has_high_income and has_good_credit:
-#     print("Eligible for loan")
-# if has_high_income or has_good_credit:
-#     print("Eligible for loan")
+has_high_income = False
+has_good_credit = True
+if has_high_income and has_good_credit:
+    print("Eligible for loan")
+if has_high_income or has_good_credit:
+    print("Eligible for loan")
 
 # has_good_credit = True
 # has_criminal_records = False
